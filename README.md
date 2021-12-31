@@ -6,5 +6,5 @@ Forged characters detection from personal documents i.e. passport or driving lic
 
 ## Algorithm Architecture
 
-![App Screenshot](https://github.com/turab45/Dataset-forged-characters-detection-on-ID-cards/blob/master/arch.jpg?raw=true)
+![App Screenshot](https://github.com/turab45/Dataset-forged-characters-detection-on-driving-licences-and-passports/blob/master/arch.PNG?raw=true)
 
