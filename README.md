@@ -8,3 +8,8 @@ Forged characters detection from personal documents i.e. passport or driving lic
 
 ![App Screenshot](https://github.com/turab45/Dataset-forged-characters-detection-on-driving-licences-and-passports/blob/master/arch.PNG?raw=true)
 
+## Authors
+
+- [@Teerath Kumar](https://www.github.com/)
+- [@Muhammad Turab](https://www.github.com/turab45)
+
