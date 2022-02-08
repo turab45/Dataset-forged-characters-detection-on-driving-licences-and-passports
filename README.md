@@ -13,3 +13,5 @@ Forged characters detection from personal documents i.e. passport or driving lic
 - [@Teerath Kumar](https://www.github.com/)
 - [@Muhammad Turab](https://www.github.com/turab45)
 
+## Published Paper
+[Paper Link](https://aircconline.com/csit/abstract/v12n2/csit120204.html)
